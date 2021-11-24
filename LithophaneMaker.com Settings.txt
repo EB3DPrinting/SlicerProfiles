@@ -1,0 +1,13 @@
+Lithophane Resolution: 0.15
+Sphere Diameter: 80
+Picture Angular Height: 90
+Picture Angular Width: 360.00
+Maximum Thickness: 2.8
+Minimum Thickness: 0.8
+Cylinder Outer Diameter: 15.2
+Cylinder Height: 4
+Cylinder Thickness: 2
+Cylinder Ledge Outer Diameter: 18
+Top Hole Outer Diameter: 0
+X Shift: 0.00
+Y Shift: 0.00
